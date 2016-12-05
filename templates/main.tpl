@@ -22,7 +22,7 @@
 
         <div class="tab-pane" id="2">
             <h3>Credits</h3>
-            <dt>Orders with credits list</dt>
+            <dt>Orders with credits</dt>
             <dd id="credits-list"></dd>
         </div>
     </div>

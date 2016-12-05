@@ -1,8 +1,6 @@
 <html>
     <head>
 
-
-
         <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
         <link href="css/seaff.css" media="screen" rel="stylesheet" type="text/css" />
         <link href="css/css.css" media="screen" rel="stylesheet" type="text/css" />
@@ -11,7 +9,7 @@
 
     </head>
 
-    <body class="adminz">
+    <body class="altify-app">
 
         <div id="header">
 

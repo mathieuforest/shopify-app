@@ -34,7 +34,7 @@ if (isset($_GET['code'])) {
 	}
 
 	// redirect to authorize url
-	header("Location: " . $shopifyClient->getAuthorizeUrl(SHOPIFY_SCOPE, "https://a6309520.ngrok.io/authorize.php"));
+	header("Location: " . $shopifyClient->getAuthorizeUrl(SHOPIFY_SCOPE, "https://bdd96ce9.ngrok.io/authorize.php"));
 	exit;
 }
 

@@ -1,7 +1,7 @@
 <?php
 	/* SHOPIFY CONFIG */
-	define('SHOPIFY_API_KEY', 'b5b55534b2a014a4d88c9efac98fd07b');
-	define('SHOPIFY_SECRET', '55bd6255852aab2478ffd63e590d260d');
+	define('SHOPIFY_API_KEY', '');
+	define('SHOPIFY_SECRET', '');
 	define('SHOPIFY_SCOPE', 'write_content,write_products,write_orders');
 	
 	if (class_exists("Smarty"))
