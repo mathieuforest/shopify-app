@@ -2,6 +2,7 @@
 PHP Shopify embeded app
 
 php -S localhost:8000
+
 ./ngrok http 8000
 
 Create new app in Shopify (Check embedded app and add Apps urls).
